@@ -1,4 +1,4 @@
-# Changer coleur background :
+# Changer couleur background :
 
 Dans master.css changer la valeur : 
 
